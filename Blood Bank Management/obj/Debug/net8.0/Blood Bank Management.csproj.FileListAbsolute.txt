@@ -1,0 +1,32 @@
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\appsettings.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Blood Bank Management.exe
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Blood Bank Management.deps.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Blood Bank Management.runtimeconfig.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Blood Bank Management.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Blood Bank Management.pdb
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.csproj.AssemblyReference.cache
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.AssemblyInfoInputs.cache
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.AssemblyInfo.cs
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.csproj.CoreCompileInputs.cache
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\staticwebassets\msbuild.Blood Bank Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Blood Bank Management.props
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blood Bank Management.props
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blood Bank Management.props
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\scopedcss\bundle\Blood Bank Management.styles.css
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Ba.E982F148.Up2Date
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\refint\Blood Bank Management.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.pdb
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\Blood Bank Management.genruntimeconfig.cache
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS8\Blood Bank Management\obj\Debug\net8.0\ref\Blood Bank Management.dll
