@@ -1,6 +1,6 @@
 # Blood Bank Management API
 
-## For more clarity, please check out [Explanation.docs](https://github.com/Psrijith/Csharp-Blood-Bank-Management-REST-API/blob/main/Explanation.docx)
+## For more clarity, please check out [Explanation.docs](https://github.com/Psrijith/Csharp-Blood-Bank-Management-REST-API/blob/main/Explanation.pdf)
 
 
 ## Overview
